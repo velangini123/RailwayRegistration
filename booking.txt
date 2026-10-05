@@ -1,0 +1,58 @@
+======================================
+          INDIAN RAILWAY TICKET
+======================================
+PNR Number    : 1000000001
+
+Passenger Details
+Passenger ID   : 1
+Passenger Name : Meena
+Age            : 35
+Gender         : female
+Phone Number   : 7574832649
+Email          : meena@gmail.com
+
+Train Details
+Train No       : 12717
+Train Name     : Ratnachal Express
+From           : Vijayawada
+To             : Visakhapatnam
+Available Seats: 99
+
+Journey Date   : 06/10/2026
+Class / Seat   : 3AC
+Seat Number    : 1
+Booking Type   : Normal
+--------------------------------------
+Total Fare     : Rs.950
+Booking Status : CONFIRMED
+======================================
+
+======================================
+          INDIAN RAILWAY TICKET
+======================================
+PNR Number    : 1000000001
+
+Passenger Details
+Passenger ID   : 2
+Passenger Name : balu
+Age            : 37
+Gender         : male
+Phone Number   : 8942567426
+Email          : balu23@gmail.com
+
+Train Details
+Train No       : 12717
+Train Name     : Ratnachal Express
+From           : Vijayawada
+To             : Visakhapatnam
+Available Seats: 98
+
+Journey Date   : 06/10/2026
+Class / Seat   : 3AC
+Seat Number    : 2
+Booking Type   : Normal
+--------------------------------------
+Total Fare     : Rs.950
+Booking Status : CONFIRMED
+======================================
+

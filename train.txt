@@ -1,0 +1,90 @@
+======================================
+Train Number    : 12703
+Train Name      : Falaknuma Express
+Source          : Secunderabad
+Destination     : Howrah
+SL Seats        : 50
+Available SL    : 50
+3AC Seats       : 30
+Available 3AC   : 30
+2AC Seats       : 20
+Available 2AC   : 20
+Total Seats     : 100
+Available Seats : 100
+SL Fare         : Rs.800
+3AC Fare        : Rs.1200
+2AC Fare        : Rs.1600
+======================================
+
+======================================
+Train Number    : 12760
+Train Name      : Charminar Express
+Source          : Hyderabad
+Destination     : Chennai
+SL Seats        : 50
+Available SL    : 50
+3AC Seats       : 30
+Available 3AC   : 30
+2AC Seats       : 20
+Available 2AC   : 20
+Total Seats     : 100
+Available Seats : 100
+SL Fare         : Rs.700
+3AC Fare        : Rs.1100
+2AC Fare        : Rs.1500
+======================================
+
+======================================
+Train Number    : 12727
+Train Name      : Godavari Express
+Source          : Visakhapatnam
+Destination     : Hyderabad
+SL Seats        : 50
+Available SL    : 50
+3AC Seats       : 30
+Available 3AC   : 30
+2AC Seats       : 20
+Available 2AC   : 20
+Total Seats     : 100
+Available Seats : 100
+SL Fare         : Rs.600
+3AC Fare        : Rs.1000
+2AC Fare        : Rs.1400
+======================================
+
+======================================
+Train Number    : 12805
+Train Name      : Janmabhoomi Express
+Source          : Eluru
+Destination     : Secunderabad
+SL Seats        : 50
+Available SL    : 50
+3AC Seats       : 30
+Available 3AC   : 30
+2AC Seats       : 20
+Available 2AC   : 20
+Total Seats     : 100
+Available Seats : 100
+SL Fare         : Rs.650
+3AC Fare        : Rs.1050
+2AC Fare        : Rs.1450
+======================================
+
+======================================
+Train Number    : 12717
+Train Name      : Ratnachal Express
+Source          : Vijayawada
+Destination     : Visakhapatnam
+SL Seats        : 50
+Available SL    : 50
+3AC Seats       : 30
+Available 3AC   : 28
+2AC Seats       : 20
+Available 2AC   : 20
+Total Seats     : 100
+Available Seats : 98
+SL Fare         : Rs.550
+3AC Fare        : Rs.950
+2AC Fare        : Rs.1350
+======================================
+
